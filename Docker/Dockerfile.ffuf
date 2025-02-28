@@ -1,0 +1,9 @@
+FROM golang:alpine
+
+RUN apk add --no-cache git
+
+RUN go install github.com/ffuf/ffuf@latest
+
+ENV PATH="/go/bin:${PATH}"
+
+ENTRYPOINT ["ffuf"]

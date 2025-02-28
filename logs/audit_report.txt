@@ -1,0 +1,4 @@
+Final Audit Report
+===================
+Task: Gobuster Scan, Status: Completed, Attempts: 0
+Task: FFUF Scan, Status: Completed, Attempts: 0

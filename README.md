@@ -149,3 +149,4 @@ streamlit run streamlit_app.py
 - **Enhanced Scope Enforcement:** Strict validation for out-of-scope scans.
 - **Extended Reporting:** Include detected vulnerabilities and scope violation summaries.
 - **Additional Unit Tests:** Expand coverage for dynamic behaviors and failures.
+ 
